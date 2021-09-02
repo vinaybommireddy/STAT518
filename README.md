@@ -4,6 +4,6 @@ preparation01 repo contains four videos which explains about git and github. Tas
 branch creation and pull requestion. Task2 is practice of we have learned in task1. Besides this it explains about forking, pull request and issues. Task3 is again 
 about a practice session on github issue. Task4 is about responding to others issues.
 
-[Feeling happy](https://tenor.com/view/happy-dance-happy-yay-dance-cute-gif-19818615)
+[Feeling happy](https://i.gifer.com/tiJ.gif)
 
-![happy](https://tenor.com/view/happy-dance-happy-yay-dance-cute-gif-19818615)
+![happy](https://i.gifer.com/tiJ.gif)
